@@ -1,7 +1,8 @@
 # web-thing
 
 
-A simple PHP-based content management tool with authentication (using mySQL db) 
+A library used for describing and displaying the prototypical, contextual and attributional connections of content nodes.
+With a simple sample content management tool including authentication
 
 
 
